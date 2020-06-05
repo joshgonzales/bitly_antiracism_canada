@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Black Lives Matter on Antiracism for Canadians</title>
-    <link>/categories/black-lives-matter/</link>
+    <link>/antiracism-canada.netlify.app/categories/black-lives-matter/</link>
     <description>Recent content in Black Lives Matter on Antiracism for Canadians</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/black-lives-matter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/antiracism-canada.netlify.app/categories/black-lives-matter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Books</title>
-      <link>/books/</link>
+      <link>/antiracism-canada.netlify.app/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/books/</guid>
+      <guid>/antiracism-canada.netlify.app/books/</guid>
       <description>Stamped from the Beginning: The Definitive History of Racist Ideas in America by Ibram X. Kendi
   So You Want to Talk About Race by Ijeoma Oluo
   Me and White Supremacy: Combat Racism, Change the World, and Become a Good Ancestor by Layla F. Saad
