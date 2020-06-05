@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Antiracism for Canadians</title>
-    <link>/antiracism-canada.netlify.app/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Antiracism for Canadians</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/antiracism-canada.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/antiracism-canada.netlify.app/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/antiracism-canada.netlify.app/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black Lives Matter</title>
-      <link>/antiracism-canada.netlify.app/categories/black-lives-matter/</link>
+      <link>/categories/black-lives-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/antiracism-canada.netlify.app/categories/black-lives-matter/</guid>
+      <guid>/categories/black-lives-matter/</guid>
       <description></description>
     </item>
     

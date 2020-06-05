@@ -1,4 +1,4 @@
-baseURL = "antiracism-canada.netlify.app"
+baseURL = "https://antiracism-canada.netlify.app"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
