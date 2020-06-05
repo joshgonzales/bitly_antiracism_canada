@@ -3,100 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/shortcodes/alerts/</loc>
-  </url>
-  
-  <url>
-    <loc>/getting-started/</loc>
-  </url>
-  
-  <url>
-    <loc>/getting-started/installation/</loc>
-  </url>
-  
-  <url>
     <loc>/books/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/buttons/</loc>
-  </url>
-  
-  <url>
-    <loc>/getting-started/usage/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/childpages/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/code/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/collapse/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/doublecode/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/lead/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/panel/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -104,7 +15,11 @@
   </url>
   
   <url>
-    <loc>/shortcodes/table/</loc>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
