@@ -1,10 +1,15 @@
 ---
-description: ""
-title: Antiracism Materials for Canadians
+title: "Black Lives Matter (Main Page)"
+description: P.S. this website isn't broken it's just old school cool
+author: "Revilla"
+date: "01/01/9999"
+output: html_document
+categories:
+  - Black Lives Matter
+tags:
+  - index
 ---
-
-{{< lead >}}
-
+# Here's an in-depth set of info related to Black Lives Matter for Canadians<br><br>
 
 ### Beginner Resources If You Feel Overwhelmed
 
@@ -18,19 +23,18 @@ by Ibram X. Kendi (Book)](https://www.goodreads.com/book/show/40265832-how-to-be
 
 * [A History of Slavery in the United States (Interactive Timeline by National Geographic)](https://www.nationalgeographic.org/interactive/slavery-united-states/)
 
-## Educational Tools
 
-* [Documentaries](/blm/documentaries/)<br>
+### Educational Tools
 
-* [Podcasts](/blm/podcasts/)<br>
-* [Influencers](/blm/influencers/)<br>
-* [Books](/blm/books/)<br>
-* [Websites](/blm/websites/)<br>
-* [Data](/blm/data/)<br>
+* [Documentaries](/blm/documentaries/)<br><br>
+* [Podcasts](/blm/podcasts/)<br><br>
+* [Influencers](/blm/influencers/)<br><br>
+* [Books](/blm/books/)<br><br>
+* [Websites](/blm/websites/)<br><br>
+* [Data](/blm/data/)<br><br>
 
 ### Local Black Businesses & Institutions
-* [Calgary](/blm/calgary/)<br>
-
+* [Calgary](/blm/calgary/)<br><br>
 * [Vancouver](/blm/vancouver/)<br><br>
 
 ### Places to Donate
@@ -43,8 +47,6 @@ by Ibram X. Kendi (Book)](https://www.goodreads.com/book/show/40265832-how-to-be
 
 * [115 Ways to Donate in Support of Black Lives and Communities of Color](https://nymag.com/strategist/article/where-to-donate-for-black-lives-matter.html)<br>
 
-{{< /lead >}}
 
-
-
+* []()<br><br>
 

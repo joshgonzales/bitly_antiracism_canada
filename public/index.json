@@ -21,18 +21,18 @@
 	"content": "Installing Ace is easy. Just install the Hugo binary, create a new site and install the Ace theme. Installing Hugo In order to run this theme, you need to install Hugo on your system. This theme requires Hugo\u0026rsquo;s extended version to support SCSS compilation, so make please sure you install the extended version. For more detailed information and other methods of installation you can visit the Hugo installation guide.\nThere may be other ways to install Hugo that are more applicable for your project. For example, you can use the NPM package hugo-bin to include Hugo in a project that already uses NPM packages.\nChecking your Hugo installation Run the following command in your terminal to check if Hugo is installed. Copy   hugo version    Make sure the version name mentions extended, to indicate you\u0026rsquo;ve installed the extended version of Hugo, which is required for this theme.\nCreating a site Create a new site docs (you may choose any name you want). In your projects root folder, run the following command: Copy   hugo new site docs    This will create a new folder /docs with all required files in it.\nInstalling the theme Download and copy the theme files into /docs/themes/ace-documentation or use git to clone the repository to that directory: Copy   cd docs cd themes git clone https://github.com/vantagedesign/ace-documentation    After theme installation, the /docs/themes/ace-documentation folder should contain the file theme.toml, along with all other theme files.\nConfiguring your hugo site to use the theme Inside your site\u0026rsquo;s folder, /docs, you will find a file called config.toml. This is the configuration file for your site. Open it and configure it to use the Ace theme by setting the following value: Copy   theme = \u0026#34;ace-documentation\u0026#34;    Installing example content You can add some sample content to your site by placing the contents of the exampleSite directory in your /docs directory.\n"
 },
 {
+	"uri": "/books/",
+	"title": "Books",
+	"tags": [],
+	"description": "",
+	"content": "  Stamped from the Beginning: The Definitive History of Racist Ideas in America by Ibram X. Kendi\n  So You Want to Talk About Race by Ijeoma Oluo\n  Me and White Supremacy: Combat Racism, Change the World, and Become a Good Ancestor by Layla F. Saad\n  White Fragility: Why It’s So Hard for White People to Talk About Racism by Robin DiAngelo\n  How to Be an Antiracist by Ibram X. Kendi\n  Why I\u0026rsquo;m No Longer Talking to White People About Race by Reni Eddo-Lodge\n  This Will Be My Undoing: Living at the Intersection of Black, Female, and Feminist in (White) America by Morgan Jerkins\n  Well, That Escalated Quickly: Memoirs and Mistakes of an Accidental Activist by Franchesca Ramsey\n  "
+},
+{
 	"uri": "/shortcodes/buttons/",
 	"title": "Buttons",
 	"tags": [],
 	"description": "",
 	"content": "The button shortcode allows you to add a button to the page. This button is a HTML anchor element and can thus be used to link to another page or website.\n Button  Button  Button  Button  Button  Button  Button  Usage Place the following shortcode on the page Copy   {{\u0026lt; button style=\u0026#34;STYLE\u0026#34; link=\u0026#34;https://yourwebsite.com\u0026#34; \u0026gt;}} [content] {{\u0026lt; /button \u0026gt;}}    Parameters style The style parameter is directly applied to the alert as a class in the format \u0026ldquo;btn-{STYLE}\u0026quot;. Bootstrap comes with a variety of styles that can be used with this:\n primary secondary danger warning success info  Each style can also be presented as an \u0026lsquo;outline\u0026rsquo; variant by prefixing the style with \u0026lsquo;outline-\u0026rsquo;.\nExample: style=\u0026quot;outline-primary\u0026quot;.\nlink The link parameter may consist of an URL leading to a page or other website. Simply use it by defining a URL for the button to link to.\nExample: link=\u0026quot;https://google.com\u0026quot;.\n"
-},
-{
-	"uri": "/configuration/",
-	"title": "Configuration",
-	"tags": [],
-	"description": "",
-	"content": "Customize and tweak Ace using a number of configuration options. Page ordering By default, pages are sorted on the weight assigned to them in their frontmatter. This is set in config.toml, using orderSectionsby = \u0026ldquo;weight\u0026quot;. Change this to \u0026quot;title\u0026quot; to sort pages alphabetically based on their title instead. Alternatively, do not assign a weight to any pages and it will also sort them alphabetically on their title.\nTable of contents By default, a table of contents (ToC) is generated for each page in the right side menu. This can be disabled using:\nCopy   \" data-lang=\"\" toc = false    in the config.toml or the frontmatter (a page\u0026rsquo;s markdown file) for a page-wide or page-specific disabling of the ToC respectively.\nGoogle Analytics Enable Google Analytics by adding your GA tracking ID to the config.toml file, at: Copy   \" data-lang=\"\" googleAnalytics = \u0026quot;XX-XXXXXXXXX-X\u0026quot;    Where XX-XXXXXXXXX-X is your tracking ID.\nRead more navigation In config.toml or a page\u0026rsquo;s frontmatter, set disableReadmoreNav = true to disable the prev/next buttons at the buttom of every page.\nSearch Disable search by setting disableSearch = true in config.toml.\n"
 },
 {
 	"uri": "/getting-started/usage/",
@@ -92,10 +92,10 @@
 },
 {
 	"uri": "/",
-	"title": "Ace documentation",
+	"title": "Antiracism Materials for Canadians",
 	"tags": [],
 	"description": "",
-	"content": "Ace is a theme for Hugo, a fast static website generator written in Go, that allows you to easily write well organized and clean documentation for your projects. It\u0026rsquo;s as easy as writing your content in Markdown, running Hugo to generate static HTML, CSS and Javascript files and deploying those to your web server. "
+	"content": "Beginner Resources If You Feel Overwhelmed   Systemic Racism Explained (Video 4:23 length)\n  How to ACTUALLY Stop Police Brutality (Video 11:31 length)\n  Free #DoTheWork 30 Day Course by Rachel Cargle (via email)\n  Antiracism Resources for White People (Google Doc)\n  How to Be an Antiracist by Ibram X. Kendi (Book)\n  A History of Slavery in the United States (Interactive Timeline by National Geographic)\n  Educational Tools   Documentaries\n  Podcasts\n  Influencers\n  Books\n  Websites\n  Data\n  Local Black Businesses \u0026amp; Institutions   Calgary\n  Vancouver\n  Places to Donate   Split a donation between 70+ community bail funds, mutual aid funds, and racial justice organizers\n  Support orgs fighting for racial justice\n  Support the Protest \u0026amp; COVID-19 Emergency Response Fund for Community Bail \u0026amp; Bond Funds!\n  115 Ways to Donate in Support of Black Lives and Communities of Color\n  "
 },
 {
 	"uri": "/categories/",
@@ -149,6 +149,13 @@
 {
 	"uri": "/tags/",
 	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/categories/black-lives-matter/",
+	"title": "Black Lives Matter",
 	"tags": [],
 	"description": "",
 	"content": ""
