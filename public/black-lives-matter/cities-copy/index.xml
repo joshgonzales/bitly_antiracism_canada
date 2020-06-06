@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Get Started on Antiracism for Canadians</title>
-    <link>/</link>
-    <description>Recent content in Get Started on Antiracism for Canadians</description>
+    <title>Cities on Antiracism for Canadians</title>
+    <link>/black-lives-matter/cities-copy/</link>
+    <description>Recent content in Cities on Antiracism for Canadians</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/black-lives-matter/cities-copy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Calgary</title>
-      <link>/black-lives-matter/cities/calgary/</link>
+      <link>/black-lives-matter/cities-copy/calgary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/black-lives-matter/cities/calgary/</guid>
+      <guid>/black-lives-matter/cities-copy/calgary/</guid>
       <description>Restaurants   Abyssinia Restaurant
   Africana BBQ
   Arinka
@@ -37,21 +37,11 @@
     </item>
     
     <item>
-      <title>Philippines</title>
-      <link>/black-lives-matter/countries/philippines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/black-lives-matter/countries/philippines/</guid>
-      <description>Restaurants  Sources on Black soldiers in the Philippines
-  </description>
-    </item>
-    
-    <item>
       <title>Vancouver</title>
-      <link>/black-lives-matter/cities/vancouver/</link>
+      <link>/black-lives-matter/cities-copy/vancouver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/black-lives-matter/cities/vancouver/</guid>
+      <guid>/black-lives-matter/cities-copy/vancouver/</guid>
       <description>Restaurants   Addis Cafe (2017 Commercial Dr)
   Axum 1279 East Hastings St
   Calabash Bistro (428 Carral St)

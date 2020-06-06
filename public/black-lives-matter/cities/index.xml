@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Get Started on Antiracism for Canadians</title>
-    <link>/</link>
-    <description>Recent content in Get Started on Antiracism for Canadians</description>
+    <title>Cities on Antiracism for Canadians</title>
+    <link>/black-lives-matter/cities/</link>
+    <description>Recent content in Cities on Antiracism for Canadians</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/black-lives-matter/cities/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -34,16 +34,6 @@
   Safari Grill
   Simply Irie
   Yenny Delights</description>
-    </item>
-    
-    <item>
-      <title>Philippines</title>
-      <link>/black-lives-matter/countries/philippines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/black-lives-matter/countries/philippines/</guid>
-      <description>Restaurants  Sources on Black soldiers in the Philippines
-  </description>
     </item>
     
     <item>

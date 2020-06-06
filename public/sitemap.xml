@@ -3,11 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/books/</loc>
+    <loc>/black-lives-matter/books/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/black-lives-matter/documentaries/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/influencers/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/podcasts/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/websites/</loc>
   </url>
   
   <url>
@@ -15,11 +27,43 @@
   </url>
   
   <url>
+    <loc>/black-lives-matter/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/cities/calgary/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
+    <loc>/black-lives-matter/cities/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/countries/</loc>
+  </url>
+  
+  <url>
+    <loc>/data/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/countries/philippines/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/cities/vancouver/</loc>
   </url>
   
 </urlset>

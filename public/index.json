@@ -1,17 +1,38 @@
 [
 {
-	"uri": "/books/",
+	"uri": "/black-lives-matter/books/",
 	"title": "Books",
 	"tags": [],
 	"description": "",
 	"content": "  Stamped from the Beginning: The Definitive History of Racist Ideas in America by Ibram X. Kendi\n  So You Want to Talk About Race by Ijeoma Oluo\n  Me and White Supremacy: Combat Racism, Change the World, and Become a Good Ancestor by Layla F. Saad\n  White Fragility: Why It’s So Hard for White People to Talk About Racism by Robin DiAngelo\n  How to Be an Antiracist by Ibram X. Kendi\n  Why I\u0026rsquo;m No Longer Talking to White People About Race by Reni Eddo-Lodge\n  This Will Be My Undoing: Living at the Intersection of Black, Female, and Feminist in (White) America by Morgan Jerkins\n  Well, That Escalated Quickly: Memoirs and Mistakes of an Accidental Activist by Franchesca Ramsey\n  "
 },
 {
-	"uri": "/",
-	"title": "Antiracism Materials for Canadians",
+	"uri": "/black-lives-matter/documentaries/",
+	"title": "Documentaries",
 	"tags": [],
 	"description": "",
-	"content": "Beginner Resources If You Feel Overwhelmed   Systemic Racism Explained (Video 4:23 length)\n  How to ACTUALLY Stop Police Brutality (Video 11:31 length)\n  Free #DoTheWork 30 Day Course by Rachel Cargle (via email)\n  Antiracism Resources for White People (Google Doc)\n  How to Be an Antiracist by Ibram X. Kendi (Book)\n  A History of Slavery in the United States (Interactive Timeline by National Geographic)\n  Educational Tools   Documentaries\n  Podcasts\n  Influencers\n  Books\n  Websites\n  Data\n  Local Black Businesses \u0026amp; Institutions   Calgary\n  Vancouver\n  Places to Donate   Split a donation between 70+ community bail funds, mutual aid funds, and racial justice organizers\n  Support orgs fighting for racial justice\n  Support the Protest \u0026amp; COVID-19 Emergency Response Fund for Community Bail \u0026amp; Bond Funds!\n  115 Ways to Donate in Support of Black Lives and Communities of Color\n  "
+	"content": "  13th (YouTube 1:40:40 length)\n  Slavery by Another Name (PBS on YouTube 1:24:56 length)\n  "
+},
+{
+	"uri": "/black-lives-matter/influencers/",
+	"title": "Influencers",
+	"tags": [],
+	"description": "",
+	"content": "  Ericka Hart, M.Ed.\n  Layla F. Saad\n  NO WHITE SAVIORS\n  Rachel Elizabeth Cargle   "
+},
+{
+	"uri": "/black-lives-matter/podcasts/",
+	"title": "Podcasts",
+	"tags": [],
+	"description": "",
+	"content": "1619 by The New York Times\n"
+},
+{
+	"uri": "/black-lives-matter/websites/",
+	"title": "Websites",
+	"tags": [],
+	"description": "",
+	"content": "Introduction   Antiracism Resources for White People (Google Doc)\n  How the U.S. Got Its Police Force\n  The racist roots of American policing: From slave patrols to traffic stops\n  Data Related   Campaign Zero\n  8CantWait.org\n  Articles "
 },
 {
 	"uri": "/categories/black-lives-matter/",
@@ -21,6 +42,20 @@
 	"content": ""
 },
 {
+	"uri": "/black-lives-matter/",
+	"title": "Black Lives Matter",
+	"tags": [],
+	"description": "",
+	"content": "Beginner Resources If You Feel Overwhelmed   Systemic Racism Explained (Video 4:23 length)\n  How to ACTUALLY Stop Police Brutality (Video 11:31 length)\n  Free #DoTheWork 30 Day Course by Rachel Cargle (via email)\n  Antiracism Resources for White People (Google Doc)\n  How to Be an Antiracist by Ibram X. Kendi (Book)\n  A History of Slavery in the United States (Interactive Timeline by National Geographic)\n  Educational Tools   Documentaries\n  Podcasts\n  Influencers\n  Books\n  Websites\n  Data\n  Local Black Businesses \u0026amp; Institutions   Calgary\n  Vancouver\n  Places to Donate   Split a donation between 70+ community bail funds, mutual aid funds, and racial justice organizers\n  Support orgs fighting for racial justice\n  Support the Protest \u0026amp; COVID-19 Emergency Response Fund for Community Bail \u0026amp; Bond Funds!\n  115 Ways to Donate in Support of Black Lives and Communities of Color\n  "
+},
+{
+	"uri": "/black-lives-matter/cities/calgary/",
+	"title": "Calgary",
+	"tags": [],
+	"description": "",
+	"content": "Restaurants   Abyssinia Restaurant\n  Africana BBQ\n  Arinka\n  Geez Ethiopian\n  Habesha Retail Store\n  Joycee\u0026rsquo;s Caribbean\n  Karibu Grill\n  KFS BBQ Smokehouse\n  Krazy Jerk\n  Luubann\n  Marathon\n  Merilyn\u0026rsquo;s Kitchen\n  MJ\u0026rsquo;s Convenience\n  Natty\u0026rsquo;s Heritage\n  Nile Cafe\n  Safari Grill\n  Simply Irie\n  Yenny Delights\n  Organizations   Action Dignity\n  Alberta Civil Liberties Research Centre\n  Calgary Ethiopian Youth Assocation\n  Calgary Immigrant Women\u0026rsquo;s Association\n  Canadian Cultural Mosaic Foundation\n  Calgary Catholic Immigration Society\n  Center for Newcomers\n  Coalition for Equal Access to Education\n  CommunityWise Resource Centre\n  Diversity Initiatives for New Immigrants Assocation\n  Eritrean Canadian Community Assocation\n  Eritrean Cultural Civic Centre\n  EthioCare\n  Ethipian Community Assocation\n  Freedom Tree\n  Immigrant Services Calgary\n  Oromo Society Network\n  Sankofa Arts and Music Foundation\n  Soccer Without Boundaries\n  Somali Canadian Society of Calgary\n  The Immigrant Education Society\n  YYC Eritreans\n  YYC Voices\n  \n  "
+},
+{
 	"uri": "/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -28,9 +63,51 @@
 	"content": ""
 },
 {
+	"uri": "/black-lives-matter/cities/",
+	"title": "Cities",
+	"tags": [],
+	"description": "",
+	"content": "  Calgary\n  Vancouver\n  "
+},
+{
+	"uri": "/black-lives-matter/countries/",
+	"title": "Countries",
+	"tags": [],
+	"description": "",
+	"content": " Philippines  "
+},
+{
+	"uri": "/data/",
+	"title": "Data",
+	"tags": [],
+	"description": "",
+	"content": "  Campaign Zero Reports\n  Washington Post Police Shooting Database\n  "
+},
+{
+	"uri": "/",
+	"title": "Get Started",
+	"tags": [],
+	"description": "",
+	"content": "Beginner Resources If You Feel Overwhelmed   Systemic Racism Explained (Video 4:23 length)\n  How to ACTUALLY Stop Police Brutality (Video 11:31 length)\n  Free #DoTheWork 30 Day Course by Rachel Cargle (via email)\n  Antiracism Resources for White People (Google Doc)\n  How to Be an Antiracist by Ibram X. Kendi (Book)\n  A History of Slavery in the United States (Interactive Timeline by National Geographic)\n  Educational Tools   Documentaries\n  Podcasts\n  Influencers\n  Books\n  Websites\n  Data\n  Local Black Businesses \u0026amp; Institutions   Calgary\n  Vancouver\n  Places to Donate   Split a donation between 70+ community bail funds, mutual aid funds, and racial justice organizers\n  Support orgs fighting for racial justice\n  Support the Protest \u0026amp; COVID-19 Emergency Response Fund for Community Bail \u0026amp; Bond Funds!\n  115 Ways to Donate in Support of Black Lives and Communities of Color\n  "
+},
+{
+	"uri": "/black-lives-matter/countries/philippines/",
+	"title": "Philippines",
+	"tags": [],
+	"description": "",
+	"content": "Restaurants  Sources on Black soldiers in the Philippines\n  "
+},
+{
 	"uri": "/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "/black-lives-matter/cities/vancouver/",
+	"title": "Vancouver",
+	"tags": [],
+	"description": "",
+	"content": "Restaurants   Addis Cafe (2017 Commercial Dr)\n  Axum 1279 East Hastings St\n  Calabash Bistro (428 Carral St)\n  Fassil Ethiopian Restaurant (736 E Broadway)\n  Gojo Little African Cafe (2838 Commercial Dr)\n  Harambe Ethiopian (2149 Commercial Dr)\n  I\u0026amp;I Restaurant (2528 Kingsway)\n  Jamaican Pizza Jerk (2707 Commercial Dr)\n  Lions Den Cafe (651 E 15th Ave)\n  The Patty Shop (4019 MacDonald St)\n  PG\u0026rsquo;s Jamaican Restaurant (1387 Johnston Rd)\n  Rehannas Roti (2518 St Johns St2)\n  Riddim \u0026amp; Spice(1945 Commercial Dr)\n  Roti Shak (808 12th St, New Westminster)\n  Safari Snack House (5121 Canada Way)\n  Simbas Grill (3300 Boundary Rd)\n  Stanley Market (10746 King George Blvd)\n  \n  "
 }]

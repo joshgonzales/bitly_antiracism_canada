@@ -1,9 +1,11 @@
 ---
 description: ""
-title: Get Started
+title: Black Lives Matter
 ---
 
 {{< lead >}}
+{{< /lead >}}
+
 
 
 ### Beginner Resources If You Feel Overwhelmed
@@ -43,7 +45,6 @@ by Ibram X. Kendi (Book)](https://www.goodreads.com/book/show/40265832-how-to-be
 
 * [115 Ways to Donate in Support of Black Lives and Communities of Color](https://nymag.com/strategist/article/where-to-donate-for-black-lives-matter.html)<br>
 
-{{< /lead >}}
 
 
 

@@ -12,15 +12,61 @@
     
     <item>
       <title>Books</title>
-      <link>/books/</link>
+      <link>/black-lives-matter/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/books/</guid>
+      <guid>/black-lives-matter/books/</guid>
       <description>Stamped from the Beginning: The Definitive History of Racist Ideas in America by Ibram X. Kendi
   So You Want to Talk About Race by Ijeoma Oluo
   Me and White Supremacy: Combat Racism, Change the World, and Become a Good Ancestor by Layla F. Saad
   White Fragility: Why It’s So Hard for White People to Talk About Racism by Robin DiAngelo
   How to Be an Antiracist by Ibram X.</description>
+    </item>
+    
+    <item>
+      <title>Documentaries</title>
+      <link>/black-lives-matter/documentaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/black-lives-matter/documentaries/</guid>
+      <description>  13th (YouTube 1:40:40 length)
+  Slavery by Another Name (PBS on YouTube 1:24:56 length)
+  </description>
+    </item>
+    
+    <item>
+      <title>Influencers</title>
+      <link>/black-lives-matter/influencers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/black-lives-matter/influencers/</guid>
+      <description>  Ericka Hart, M.Ed.
+  Layla F. Saad
+  NO WHITE SAVIORS
+  Rachel Elizabeth Cargle   </description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>/black-lives-matter/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/black-lives-matter/podcasts/</guid>
+      <description>1619 by The New York Times</description>
+    </item>
+    
+    <item>
+      <title>Websites</title>
+      <link>/black-lives-matter/websites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/black-lives-matter/websites/</guid>
+      <description>Introduction   Antiracism Resources for White People (Google Doc)
+  How the U.S. Got Its Police Force
+  The racist roots of American policing: From slave patrols to traffic stops
+  Data Related   Campaign Zero
+  8CantWait.org
+  Articles </description>
     </item>
     
   </channel>

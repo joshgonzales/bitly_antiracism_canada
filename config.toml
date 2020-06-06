@@ -17,7 +17,7 @@ googleAnalytics = ""
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableSearch = false # default is false
-disableReadmoreNav = false # set true to hide prev/next navigation, default is false
+disableReadmoreNav = true # set true to hide prev/next navigation, default is false
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
 
@@ -30,6 +30,8 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "<button class='btn btn-success mt-n1'>Get Started</button>"
-url = "/love"
+name = "<button class='btn btn-success mt-n1'>Donate Now</button>"
+url = "https://secure.actblue.com/donate/bail_funds_george_floyd"
 weight = 3
+
+
