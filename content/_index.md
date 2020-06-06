@@ -20,18 +20,18 @@ by Ibram X. Kendi (Book)](https://www.goodreads.com/book/show/40265832-how-to-be
 
 ## Educational Tools
 
-* [Documentaries](/blm/documentaries/)<br>
+* [Documentaries](/black-lives-matter/documentaries/)<br>
 
-* [Podcasts](/blm/podcasts/)<br>
-* [Influencers](/blm/influencers/)<br>
-* [Books](/blm/books/)<br>
-* [Websites](/blm/websites/)<br>
-* [Data](/blm/data/)<br>
+* [Podcasts](/black-lives-matter/podcasts/)<br>
+* [Influencers](/black-lives-matter/influencers/)<br>
+* [Books](/black-lives-matter/books/)<br>
+* [Websites](/black-lives-matter/websites/)<br>
+* [Data](/black-lives-matter/data/)<br>
 
 ### Local Black Businesses & Institutions
-* [Calgary](/blm/calgary/)<br>
+* [Calgary](/black-lives-matter/cities/calgary/)<br>
 
-* [Vancouver](/blm/vancouver/)<br><br>
+* [Vancouver](/black-lives-matter/vancouver/)<br><br>
 
 ### Places to Donate
 
