@@ -7,6 +7,7 @@ title: Calgary
 {{< /lead >}}
 
 ### Restaurants
+
 * [Abyssinia Restaurant]()<br>
 
 * [Africana BBQ]()<br>
@@ -52,7 +53,7 @@ title: Calgary
 * [The Immigrant Education Society]()<br>
 * [YYC Eritreans]()<br>
 * [YYC Voices]()<br>
-* []()<br>
+
 
 
 
