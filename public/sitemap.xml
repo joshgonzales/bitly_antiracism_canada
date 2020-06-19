@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>/black-lives-matter/businesses/</loc>
+  </url>
+  
+  <url>
     <loc>/black-lives-matter/documentaries/</loc>
   </url>
   
@@ -19,7 +23,15 @@
   </url>
   
   <url>
+    <loc>/black-lives-matter/mental-health/</loc>
+  </url>
+  
+  <url>
     <loc>/black-lives-matter/podcasts/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/templates/</loc>
   </url>
   
   <url>
@@ -35,15 +47,15 @@
   </url>
   
   <url>
-    <loc>/black-lives-matter/cities/calgary/</loc>
+    <loc>/black-lives-matter/canada/calgary/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/canada/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/black-lives-matter/cities/</loc>
   </url>
   
   <url>
@@ -63,11 +75,31 @@
   </url>
   
   <url>
+    <loc>/police/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/canada/regina/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/canada/saskatoon/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>/black-lives-matter/cities/vancouver/</loc>
+    <loc>/black-lives-matter/canada/toronto/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/canada/vancouver/</loc>
+  </url>
+  
+  <url>
+    <loc>/black-lives-matter/canada/winnipeg/</loc>
   </url>
   
 </urlset>

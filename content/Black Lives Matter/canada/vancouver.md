@@ -24,7 +24,8 @@ title: Vancouver
 * [Safari Snack House (5121 Canada Way)]()<br>
 * [Simbas Grill (3300 Boundary Rd)]()<br>
 * [Stanley Market (10746 King George Blvd)]()<br>
-* []()<br>
+
+{{< instagram CA9LwPPJKLs >}}
 
 
 

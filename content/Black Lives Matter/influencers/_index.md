@@ -14,6 +14,8 @@ weight: 2
 
 * [Layla F. Saad](https://www.instagram.com/laylafsaad/)<br>
 
+* [Mireille Cassandra Harper](https://www.instagram.com/mireillecharper/)<br>
+
 * [NO WHITE SAVIORS](https://www.instagram.com/nowhitesaviors/)<br>
 
 * [Rachel Elizabeth Cargle](https://www.instagram.com/rachel.cargle/) <br>

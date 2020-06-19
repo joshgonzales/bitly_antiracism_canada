@@ -28,6 +28,8 @@ title: Calgary
 * [Simply Irie]()<br>
 * [Yenny Delights]()<br>
 
+{{< instagram CBEBOBQJgUC >}}
+
 ### Organizations
 * [Action Dignity]()<br>
 
@@ -54,6 +56,14 @@ title: Calgary
 * [YYC Eritreans]()<br>
 * [YYC Voices]()<br>
 
+
+{{< instagram CBbWXh3pW7a >}}
+{{< instagram CA3N6MJpMPD >}}
+{{< instagram CA8b0uFJFth >}}
+
+{{< instagram CA-dgsoJjOy >}}
+
+{{< instagram CBV_jT-JaZU >}}
 
 
 

@@ -33,3 +33,7 @@ by Morgan Jerkins](https://www.goodreads.com/book/show/35069544-this-will-be-my-
 
 * [Well, That Escalated Quickly: Memoirs and Mistakes of an Accidental Activist
 by Franchesca Ramsey](https://www.goodreads.com/book/show/40603370-well-that-escalated-quickly)<br>
+
+{{< instagram CA9RPEwhE_r >}}
+
+{{< instagram CBNvIIypeo8 >}}
