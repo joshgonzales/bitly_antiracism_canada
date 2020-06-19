@@ -16,6 +16,8 @@ title: Get Started
 * [How to Be an Antiracist
 by Ibram X. Kendi (Book)](https://www.goodreads.com/book/show/40265832-how-to-be-an-antiracist)<br>
 
+* [Helpful Instagram Posts](/black-lives-matter/instagram-posts/)<br>
+
 * [A History of Slavery in the United States (Interactive Timeline by National Geographic)](https://www.nationalgeographic.org/interactive/slavery-united-states/)
 
 ## Educational Tools
@@ -23,12 +25,14 @@ by Ibram X. Kendi (Book)](https://www.goodreads.com/book/show/40265832-how-to-be
 * [Documentaries](/black-lives-matter/documentaries/)<br>
 
 * [Podcasts](/black-lives-matter/podcasts/)<br>
+
 * [Influencers](/black-lives-matter/influencers/)<br>
 * [Books](/black-lives-matter/books/)<br>
 * [Websites](/black-lives-matter/websites/)<br>
 * [Data](/black-lives-matter/data/)<br>
 
 ### Local Black Businesses & Institutions
+* [afrobiz.ca (directory)](https://www.afrobiz.ca/)
 * [Calgary](/black-lives-matter/cities/calgary/)<br>
 
 * [Vancouver](/black-lives-matter/vancouver/)<br><br>

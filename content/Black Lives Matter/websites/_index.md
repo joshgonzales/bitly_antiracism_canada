@@ -12,6 +12,8 @@ weight: 2
 
 ## Introduction
 
+* [Deadly force: Fatal encounters with police in Canada: 2000-2017 (CBC Report)](https://newsinteractives.cbc.ca/longform-custom/deadly-force)<br>
+
 * [Antiracism Resources for White People (Google Doc)](https://bit.ly/antiracismresources)<br>
 
 * [How the U.S. Got Its Police Force](https://time.com/4779112/police-history-origins/?amp=true)
